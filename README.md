@@ -1,4 +1,8 @@
-### Hi there 👋
+### 👋 Hi, I'm Abhishek
+
+I'm a Software Engineer at Tableau in Seattle where I work with fullstack technologies to build new data analysis tools. Previously I was a student at the University of Washington.
+
+In my free time I love learning about technologies and economics, building side projects, trying to make a dent in my reading list, and finding the best bakeries in the city.
 
 <!--
 **JoshiAbhishek/joshiabhishek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
