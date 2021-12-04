@@ -4,6 +4,8 @@ I'm a Software Engineer at Tableau in Seattle where I work with fullstack techno
 
 In my free time I love learning about technologies and economics, building side projects, trying to make a dent in my reading list, and finding the best bakeries in the city.
 
+[Twitter](https://twitter.com/lastnameisjoshi) | [Medium](https://medium.com/@abhishekj) | [LinkedIn](https://linkedin.com/in/joshiabhishek1)
+
 <!--
 **JoshiAbhishek/joshiabhishek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
